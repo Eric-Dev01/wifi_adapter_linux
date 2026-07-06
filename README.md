@@ -1,4 +1,4 @@
-# Script de Instalação Automática para AIC8800D80 (Wi-Fi 6 + BT)
+# Script de Instalação Automática para IEEE 802.11AX AIC8800D80 (Wi-Fi 6 + BT AJ-N44-H)
 
 Este repositório contém um script de automação focado na compilação, instalação e correção de problemas de firmware para adaptadores USB baseados no chipset **AIC8800D80** (provendo suporte a Wi-Fi 6 e Bluetooth).
 
